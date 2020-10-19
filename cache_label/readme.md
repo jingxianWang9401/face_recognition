@@ -1,0 +1,1 @@
+该文件夹用于存放运算临时结果，pb以及txt⽂件，运算完成后，将data_label中的pb和txt⽂件复制到backup⽂件夹内，再⽤新的pb和txt⽂件覆盖data_label中的⽂件。
